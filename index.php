@@ -4,7 +4,7 @@
   <title>Cómo donar</title>
 </head>
 <body>
-  <h1>Miniguía para donar</h1>
+<div class="container" style="width:100%">  <h1>Miniguía para donar</h1>
  <p><h2>1.- Loguearse/Registrarse:</h2></p>
  <img src="http://i.imgur.com/zCH8mBz.png">
  
@@ -28,6 +28,6 @@
  
 <p>Ponés en qué pj y cuántos créditos deseás convertir, y listo:</p>
  <img src="http://i.imgur.com/ZIKsO52.png">
-
+</div>
 </body>
 </html>
