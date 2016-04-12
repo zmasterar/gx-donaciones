@@ -6,28 +6,28 @@
 <body>
 <div class="container" style="width:100%">  <h1>Miniguía para donar</h1>
  <p><h2>1.- Loguearse/Registrarse:</h2></p>
- <img src="http://i.imgur.com/zCH8mBz.png">
+ <img src="http://i.imgur.com/zCH8mBz.png" style="width:100%">
  
  <p><h2>2.- Cargar créditos en tu cuenta de donaciones:</h2></p>
 <p>Seleccionás <b>donar</b> y luego el medio de pago que prefieras (puede que aparezcan otros medios si sos de otro país).</p>
- <img src="http://i.imgur.com/79Bazub.png">
+ <img src="http://i.imgur.com/79Bazub.png" style="width:100%">
  
 <p>Ejemplo Cuenta Digital:</p>
 <p>Ingresás el monto:</p>
- <img src="http://i.imgur.com/NfPY9Qm.png">
+ <img src="http://i.imgur.com/NfPY9Qm.png" style="width:100%">
  
 <p>Y te genera el ticket para pagar en un rapipago:</p>
- <img src="http://i.imgur.com/Owaba7V.png">
+ <img src="http://i.imgur.com/Owaba7V.png" style="width:100%">
 
 <p><h2>3.- Usar los créditos en el server que prefieras</h2></p>
 <p>Una vez que se acredite el dinero, te va a aparecer en el balance, vas al link <b>servicios</b>, elegís el server y en qué lo querés usar</p>
- <img src="http://i.imgur.com/hWtIbjn.png">
+ <img src="http://i.imgur.com/hWtIbjn.png" style="width:100%">
  
 <p>Ahí mismo tenés la opción de convertir tu crédito en coins, por ejemplo para Ludmila:</p>
- <img src="http://i.imgur.com/vqzcA1O.png">
+ <img src="http://i.imgur.com/vqzcA1O.png" style="width:100%">
  
 <p>Ponés en qué pj y cuántos créditos deseás convertir, y listo:</p>
- <img src="http://i.imgur.com/ZIKsO52.png">
+ <img src="http://i.imgur.com/ZIKsO52.png" style="width:100%">
 </div>
 </body>
 </html>
